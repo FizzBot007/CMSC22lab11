@@ -339,7 +339,7 @@ public class RPSLS extends Frame{
    
     
     setTitle("RockPaperScissorsLizardSpock");
-    setSize(400,300);
+    setSize(500,300);
     setVisible(true);
   }
   
